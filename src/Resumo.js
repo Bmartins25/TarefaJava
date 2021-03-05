@@ -5,7 +5,7 @@ class Resumo extends Component {
     return (
       <div>
         <h2>Resumo da solicitação:</h2>
-        <p>Aqui vem o resumo da sua escolha</p>
+        <p>Aqui vem o resumo da sua escolha!!!</p>
  
         
       </div>
