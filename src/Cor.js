@@ -26,7 +26,7 @@ class Cor extends Component {
         </div>
       </div>
     );
-  } // colocar 2 botões para jogar a cor para tela de resumo
+  } 
 }
  
 export default Cor;

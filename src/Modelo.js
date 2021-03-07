@@ -14,8 +14,9 @@ class Modelo extends Component {
             <u>Sedan</u>
        <br></br>
        </h7><br></br>
+
        
-       <button id="btn1" onclick="alert('Modelo 1')">Escolher</button>
+       <button id="btn1" onclick="myFuction()">Sedan</button>
        <br></br>
         <br></br>
        <h8>
@@ -31,7 +32,7 @@ class Modelo extends Component {
       </div>
       </div>
     );
-  } 
+  } // função para os botões? Rota? 
 }
  
 export default Modelo;

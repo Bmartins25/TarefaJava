@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
  
 class Opcionais extends Component {
   render() {
@@ -42,6 +43,6 @@ class Opcionais extends Component {
 
     );
   }
-} // colocar 2 botões para jogar o adicional para tela de resumo
+} 
  
 export default Opcionais;

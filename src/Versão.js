@@ -35,7 +35,7 @@ class Versão extends Component {
         </div>
       </div>
     );
-  } // colocar 2 botões para jogar a versão para tela de resumo
+  } 
 }
  
 export default Versão;
